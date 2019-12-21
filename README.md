@@ -1,2 +1,2 @@
-# wpu-parkir
-Repository untuk menyimpan jurnal tentang aplikasi pendaftaran mahasiswa menggunakan VB.NET
+# wpu-resolusi
+Repository untuk menyimpan resolusi kedepan
