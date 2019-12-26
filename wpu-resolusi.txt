@@ -3,3 +3,6 @@ Resolusi Materi Belajar
 -Php
 -HTML
 -CSS
+Resolusi Olahraga
+-Fitness
+-Jogging
