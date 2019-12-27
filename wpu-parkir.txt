@@ -9,3 +9,6 @@ WPU-resolusi
   -Ayam
   -Susu
   -Burger
+ -Olahraga
+  -plank
+  -Push Up
