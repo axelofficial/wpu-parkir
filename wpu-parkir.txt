@@ -4,3 +4,7 @@ WPU-resolusi
 -Membuat forum diskusi
 -Kolaborasi dengan para Expert
 -Membuat Vlog
+-Sarapan
+  -Telur
+  -Ayam
+  -Susu
