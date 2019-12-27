@@ -12,3 +12,4 @@ WPU-resolusi
  -Olahraga
   -plank
   -Push Up
+  -Sit Up
