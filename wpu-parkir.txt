@@ -8,3 +8,4 @@ WPU-resolusi
   -Telur
   -Ayam
   -Susu
+  -Burger
