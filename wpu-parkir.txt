@@ -7,4 +7,6 @@ WPU-resolusi
 -Sarapan
   -Telur
   -Ayam
-  -Susu
+ -Olahraga
+  -plank
+  -Push Up
