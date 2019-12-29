@@ -6,3 +6,5 @@ Resolusi Materi Belajar
 Resolusi Olahraga
 -Fitness
 -Jogging
+-PushUp
+-PullUp
